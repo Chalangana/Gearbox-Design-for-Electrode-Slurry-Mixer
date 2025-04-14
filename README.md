@@ -1,0 +1,2 @@
+# Gearbox-Design-for-Electrode-Slurry-Mixer
+Designed and modeled a three-forward, one-reverse gearbox for an electrode slurry mixer to address torque variation and optimize machine performance. Performed detailed mechanical calculations and 3D modeling using Solid Edge, ensuring efficient and reliable operation under varying load conditions.
